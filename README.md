@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel2698
 - 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning Haskell and Plutus
+- 🌱 I’m currently learning Haskell, Plutus and JavaScript
 - 💞️ I’m looking to collaborate on Cardano 
 - 📫 How to reach me samuelvelasco2698@gmail.com 
 
