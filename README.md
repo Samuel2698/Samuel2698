@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel2698
 - 👀 I’m interested in Web Development and Blockchain
-- 🌱 I’m currently learning CSS and JavaScript 
+- 🌱 I’m currently learning CSS, JavaScript and Haskell
 - 📫 How to reach me samuelvelasco2698@gmail.com 
 
 <!---
