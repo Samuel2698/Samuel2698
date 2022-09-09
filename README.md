@@ -1,7 +1,7 @@
-Hi! I am a Venezuelan front-end developer residing in France. 
+Hi! I'm a Venezuelan front-end developer residing in France. 
 I code mainly in React JS with Tailwind CSS. 💻
 
-I have also worked with TypeScript, FireBase, Next JS, Material UI, Ant Design, among others. And I'm ready to learn new technologies!:muscle:
+I've also worked with TypeScript, FireBase, Next JS, Material UI, Ant Design, among others. And I'm ready to learn new technologies!:muscle:
 
 <ul>
   <li>🖼️ My portfolio: ➡️  https://velascodev.fr/ ⬅️
