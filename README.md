@@ -5,7 +5,8 @@ I've also worked with TypeScript, FireBase, Next JS, Material UI, Ant Design, am
 
 <ul>
   <li>🖼️ My portfolio: ➡️  https://velascodev.fr/ ⬅️
-  <li>📬 My email: samuelvelasco2698@gmail.com 
+  <li>:briefcase: My LinkedIn profile: https://www.linkedin.com/in/samuel-velasco7/
+  <li>📬 My email: samuelvelasco2698@gmail.com
  <ul> 
 <br>
 
