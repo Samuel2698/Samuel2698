@@ -9,6 +9,3 @@ I've also worked with TypeScript, FireBase, Next JS, Material UI, Ant Design, am
   <li>📬 My <a href="mailto:samuelvelasco2698@gmail.com">Email</a>
  <ul> 
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel2698)
-
