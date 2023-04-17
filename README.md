@@ -1,4 +1,4 @@
-Hi! I'm a Venezuelan Front-End Developer residing in France. 
+Hi! I'm a Venezuelan Junior Front-End Developer residing in France. 
 I code mainly in React JS with Material UI. 💻
 
 <ul>
