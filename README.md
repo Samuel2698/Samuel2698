@@ -1,5 +1,5 @@
 Hi! I'm a Venezuelan Junior Front-End Developer residing in France. 
-I code mainly in React JS with Material UI. 💻
+I code mainly in React JS and I love Css. 💻
 
 <ul>
   <li>:briefcase: My LinkedIn profile: https://www.linkedin.com/in/samuel-velasco7/
