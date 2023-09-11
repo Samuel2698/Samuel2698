@@ -1,8 +1,8 @@
-Hi! I'm a Venezuelan Junior Front-End Developer residing in France. 
-I code mainly in React JS and I love Css. 💻
+## Hi there! I'm Samuel Velasco 👋
 
-<ul>
-  <li>:briefcase: My LinkedIn profile: https://www.linkedin.com/in/samuel-velasco7/
-  <li>📬 My <a href="mailto:samuelvelasco2698@gmail.com">Email</a>
- <ul> 
-<br>
+I'm a Venezuelan Junior Front-End Developer currently based in France. My passion lies in crafting engaging and functional web experiences, and I particularly enjoy working with technologies like React JS and exploring the endless possibilities of CSS. 💻
+
+### Get in Touch
+
+- :briefcase: [My LinkedIn Profile](https://www.linkedin.com/in/samuel-velasco7/)
+- 📬 [Email Me](mailto:samuelvelasco2698@gmail.com)
