@@ -1,6 +1,6 @@
 ## Hi there! I'm Samuel Velasco 👋
 
-I'm a Venezuelan JavaScript/Vue/React Developer currently based in France.
+I'm a Venezuelan Vue/React Developer currently based in France.
 
 ### Get in Touch
 
