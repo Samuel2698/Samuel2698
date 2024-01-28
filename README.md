@@ -1,6 +1,6 @@
 ## Hi there! I'm Samuel Velasco 👋
 
-I'm a Venezuelan Developer currently based in France.
+I'm a Venezuelan Front-End Developer currently based in France who believes that discipline and passion are essential in this field of knowledge.
 
 ### Get in Touch
 
